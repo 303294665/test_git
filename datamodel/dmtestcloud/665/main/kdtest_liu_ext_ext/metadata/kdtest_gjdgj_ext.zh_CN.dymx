@@ -6,7 +6,7 @@
   <DesignMetas>
     <DesignFormMetaL>
       <Number>kdtest_gjdgj_ext</Number>
-      <PkId>1R678/XE2GD7</PkId>
+      <PkId>1R67M/BQMT5Q</PkId>
       <DataXml>
         <FormMetadata>
           <Items>
@@ -22,7 +22,7 @@
     </DesignFormMetaL>
     <DesignEntityMetaL>
       <Number>kdtest_gjdgj_ext</Number>
-      <PkId>1R6780/HMRJ0</PkId>
+      <PkId>1R67M/EIE9MC</PkId>
       <DataXml>
         <EntityMetadata/>
       </DataXml>
@@ -31,6 +31,6 @@
       <LocaleId>zh_CN</LocaleId>
     </DesignEntityMetaL>
   </DesignMetas>
-  <Version>1626055533190</Version>
+  <Version>1626055778345</Version>
   <BOSVersion>1.0</BOSVersion>
 </DeployMetadata>

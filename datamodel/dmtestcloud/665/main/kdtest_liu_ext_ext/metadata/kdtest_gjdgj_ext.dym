@@ -8,7 +8,7 @@
   <DesignMetas>
     <DesignFormMeta>
       <DevType>2</DevType>
-      <ModifyDate>1626055533190</ModifyDate>
+      <ModifyDate>1626055778345</ModifyDate>
       <DataXml>
         <FormMetadata>
           <DevType>2</DevType>
@@ -47,6 +47,15 @@
               <Key>kdtest_textfield1</Key>
               <ParentId>mqK0FWAH2I</ParentId>
             </FieldAp>
+            <FieldAp>
+              <Id>lpbixagamZ</Id>
+              <FieldId>lpbixagamZ</FieldId>
+              <Index>7</Index>
+              <MobFieldPattern>1</MobFieldPattern>
+              <Name>整数1</Name>
+              <Key>kdtest_integerfield1</Key>
+              <ParentId>mqK0FWAH2I</ParentId>
+            </FieldAp>
             <AttachmentPanelAp action="edit" oid="rrz4n5821A">
               <AttachmentFileSource action="setnull"/>
             </AttachmentPanelAp>
@@ -57,7 +66,7 @@
       <EntityId>1QRMDC056BM8</EntityId>
       <ModelType>BillFormModel</ModelType>
       <Isv>kdtest</Isv>
-      <Version>1626055533190</Version>
+      <Version>1626055778345</Version>
       <ParentId>1QRDX601QK1T</ParentId>
       <MasterId>1QRDX601QK1T</MasterId>
       <Number>kdtest_gjdgj_ext</Number>
@@ -122,12 +131,24 @@
               <Key>kdtest_textfield1</Key>
               <Name>文本1</Name>
             </TextField>
+            <IntegerField>
+              <FieldName>fk_kdtest_integerfield1</FieldName>
+              <Features>
+                <Features>
+                  <Ver>1</Ver>
+                </Features>
+              </Features>
+              <Id>lpbixagamZ</Id>
+              <Key>kdtest_integerfield1</Key>
+              <DefValue>0</DefValue>
+              <Name>整数1</Name>
+            </IntegerField>
           </Items>
         </EntityMetadata>
       </DataXml>
       <ModelType>BillFormModel</ModelType>
       <Isv></Isv>
-      <Version>1626055533233</Version>
+      <Version>1626055778377</Version>
       <ParentId>1QRDX601QK1T</ParentId>
       <MasterId>1QRDX601QK1T</MasterId>
       <Number>kdtest_gjdgj_ext</Number>
@@ -136,7 +157,7 @@
       <InheritPath>00305e8b000006ac,1QRDX601QK1T</InheritPath>
     </DesignEntityMeta>
   </DesignMetas>
-  <Version>1626055533190</Version>
+  <Version>1626055778345</Version>
   <BOSVersion>1.0</BOSVersion>
   <BizunitId>1NINJ6VA+NLI</BizunitId>
 </DeployMetadata>
