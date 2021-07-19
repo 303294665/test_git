@@ -8,7 +8,7 @@
     <DesignAppMeta>
       <DevType>0</DevType>
       <AppVersion>1.5.0</AppVersion>
-      <Modifier>74900085</Modifier>
+      <Modifier>13466739</Modifier>
       <DataXml>
         <AppMetadata>
           <DevType>0</DevType>
@@ -129,6 +129,19 @@
               <Seq>3</Seq>
             </AppMenuElement>
             <AppMenuElement>
+              <IconShortcut>/icons/pc/application/tysj4_48_48.png</IconShortcut>
+              <Visible>true</Visible>
+              <Description/>
+              <ParentId>15RV9A+TRZ0D</ParentId>
+              <OpenType>MainNewTabPage</OpenType>
+              <VectorImage>kdfont kdfont-cebianlantubiao1beifen</VectorImage>
+              <Number>9597079646</Number>
+              <Parameter/>
+              <Name/>
+              <Id>1144107043997615104</Id>
+              <Seq>4</Seq>
+            </AppMenuElement>
+            <AppMenuElement>
               <FormId>/WXHVRP15OWF</FormId>
               <IconShortcut>/icons/pc/entrance/helpcentre.png</IconShortcut>
               <Visible>0</Visible>
@@ -198,7 +211,7 @@
       <Image>icons/pc/application/gongyingxietong_48_48.png</Image>
       <OrgFunc></OrgFunc>
       <Visible>1</Visible>
-      <ModifyDate>1626317116603</ModifyDate>
+      <ModifyDate>1623736849418</ModifyDate>
       <Dependency></Dependency>
       <HelpURL></HelpURL>
       <Label></Label>
